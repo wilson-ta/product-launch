@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono&display=swap');
+body {
+    font-family: 'Space Mono', monospace;
+    background-color: #354F52;
+}
+
+#ocean-waves {
+ width: 75vw;   
+}
+
+#info {
+    color:coral;
+}
